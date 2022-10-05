@@ -7,7 +7,8 @@ Connect all your devices hassle-free. Get all the features of an Ecosystem for a
 </b></p>
 
 ## Why Synce
-Even though we have devices with different platforms but they still seems disconnected as they are not synced. Recently I tried to share File from android to windows but found no Easy way to share files, the same goes for any other type of syncing like accessing storage of different device or accepting call from a desktop device. Here comes Synce which can help you with that, although this is still a WIP but below you can checkout some Planned features and tech stack chosen for now.
+Even though we have different devices but they are still not synced, like recently I tried to transfer a file from my android phone to my PC but found no easy way to share files, the same goes for any other type of syncing like accessing storage of different device or accepting call from a desktop device.  
+Here comes Synce which can help you with that, although this is still a WIP but below you can checkout some Planned features and tech stack chosen for now.
 
 ## Planned Features
 - Share Files to any device, any platform
